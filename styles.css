@@ -1,0 +1,71 @@
+main{
+	height:100%;
+	width:100%;
+}
+	
+*{
+	box-sizing: border-box;
+}
+	
+body{
+	font-family: 'Lato', sans-serif;
+	height:100%;
+	width:100%;
+	text-align:center;
+	margin: 0px;
+}
+
+.titleleft{
+	display: inline-block;
+	width: 50%;
+	height:100vh;
+	background-color: gold;
+	text-align: center;
+	padding-top: 7em;
+	float: left;
+}
+.titleright{
+	display: inline-block;
+	width: 50%;
+	height:100vh;
+	background-color: teal;
+	text-align: center;
+	padding-top: 7em;
+	float: right;
+}
+.lefttext{
+	border: 2px solid darkslategrey;
+	color: darkslategrey;
+	display:inline-block;
+	padding: 1em;
+	margin-top:7em;
+	text-decoration:none;
+	
+}
+.righttext{
+	border: 2px solid ivory;
+	color: darkslategrey;
+	display:inline-block;
+	padding: 1em;
+	margin-top:7em;
+}
+h1{
+	border: 2px black solid;
+	text-align: center;
+}
+
+.lefttext a{
+	text-decoration:none;
+	color:darkslategrey;
+}
+.righttext a{
+	text-decoration:none;
+	color:ivory;
+	
+}
+/* for later use 03647B
+248AA2
+047C98
+025164
+025164 
+025164 */
