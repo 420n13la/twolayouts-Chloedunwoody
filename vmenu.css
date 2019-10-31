@@ -1,0 +1,88 @@
+html{
+	background-color: #C46CA3;
+	box-sizing: border-box;
+}
+body{
+	margin:2px;
+}
+
+img{
+	margin-left:1.5em;
+	box-sizing: border-box;
+	border-radius: 1em 2em;
+}
+
+nav{
+	float:left;
+	height: 100vh;
+	width: 18%;
+	border:0.5px solid #EEC8E0;
+	border-radius: 1em 2em ;
+	padding: 2%;
+	margin:2%;
+	
+}
+ul{
+	list-style:none;
+	color: #EEC8E0;
+}
+
+a{
+	text-decoration: none;
+	color:#EEC8E0;
+}
+a:visited{
+	color:#EEC8E0;
+}
+a:hover{
+	color:#DB99C2
+}
+header{
+	background-color: rgba(165, 67, 129, 0.8);
+	padding: 1em;
+	text-align: center;
+	border-radius: 1em 2em;
+	
+}
+h1{
+	text-align:center;
+	color:#EEC8E0;
+}
+p{
+	overflow:auto;
+	padding-top:5em;
+	padding-left: 0.5em;
+	text-align: center;
+
+}
+#youtube{
+	border: 1px solid #EEC8E0;
+}
+#horse{
+	float:left;
+	margin:2%;
+}
+#dog{
+	float:right;
+	margin:2%;
+}
+#thoughts{
+	text-align:left;
+	overflow:auto;
+}
+
+/* top left vermenu
+C46CA3 main
+EEC8E0 light
+DB99C2 light
+A54381 dark
+892564 darker
+*/
+
+/* bot right ho menu
+CCEC82 main
+EFFAD3 light
+DFF5AC light
+A4C751 dark
+81A52D darker
+*/

@@ -1,0 +1,81 @@
+main{
+	height:100%;
+	width:100%;
+}
+	
+*{
+	box-sizing: border-box;
+}
+	
+body{
+	font-family: 'Lato', sans-serif;
+	height:100%;
+	width:100%;
+	text-align:center;
+	margin: 0px;
+}
+
+.titleleft{
+	display: inline-block;
+	width: 50%;
+	height:100vh;
+	background-color:#C46CA3;
+	text-align: center;
+	padding-top: 7em;
+	float: left;
+}
+.titleright{
+	display: inline-block;
+	width: 50%;
+	height:100vh;
+	background-color: #CCEC82;
+	text-align: center;
+	padding-top: 7em;
+	float: right;
+}
+.lefttext{
+	border: 4px solid #A54381;
+	color: #A54381;
+	display:inline-block;
+	padding: 1em;
+	margin-top:7em;
+	text-decoration:none;
+	
+}
+.righttext{
+	border: 4px solid #A4C751;
+	color: #A4C751;
+	display:inline-block;
+	padding: 1em;
+	margin-top:7em;
+}
+h1{
+	border: 2px black solid;
+	text-align: center;
+}
+
+.lefttext a{
+	text-decoration:none;
+	color:#EEC8E0;
+}
+.righttext a{
+	text-decoration:none;
+	color:#EFFAD3 ;
+	
+}
+/* top left vermenu
+C46CA3 main
+EEC8E0 light
+DB99C2 light
+A54381 dark
+892564 darker
+*/
+
+/* bot right ho menu
+CCEC82 main
+EFFAD3 light
+DFF5AC light
+A4C751 dark
+81A52D darker
+*/
+
